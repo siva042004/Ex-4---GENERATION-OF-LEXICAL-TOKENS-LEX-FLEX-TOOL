@@ -1,7 +1,7 @@
  Ex-4-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # DATE:28.02.24
-# NAME: Akash A
-# REGISTER NUMBER: 212221040010
+# NAME: sivaragul.m
+# REGISTER NUMBER: 212221040155
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
